@@ -11,8 +11,8 @@ I am Marin Pedraza, a passionate programmer from Argentina specializing in Pytho
 
 ## Featured Projects
 
-### 🚀 Memory Game (Ionic, Angular, Firebase)
-An engaging mobile game where users can uncover matching pairs and compete on a global leaderboard.
+### 🚀 Personal Pokedex (HTML, CSS, JSON)
+A captivating web development project that serves as a Personal Pokedex, allowing users to explore information about various Pokémon based on their types. Check out the project [here](https://tame-pink-sheep-gear.cyclic.app/).
 
 ### 🌐 Gaming Room (Angular, Firebase)
 A web-based gaming platform featuring games like Hangman, Trivia, and more, hosted on Firebase. [Visit Gaming Room](https://gameroom-97620.web.app/home)
