@@ -1,8 +1,8 @@
-# Martin Pedraza | Python Developer
+# Martin Pedraza | Python & Angular Developer
 
 👋 Hello! Welcome to my GitHub profile.
 
-I am Marin Pedraza, a passionate programmer from Argentina specializing in Python development. With a solid foundation in computer science and a keen interest in innovative technologies, I have successfully completed a diverse range of projects during my academic journey. My GitHub showcases a variety of projects, including mobile applications, web platforms, and backend systems, each highlighting my proficiency in different technologies such as Angular, Ionic, Slim PHP, and more.
+I'm Marin Pedraza, a passionate programmer from Argentina with specialized expertise in Python and Angular development. My robust background in computer science is reflected in a successful academic journey where I've led diverse projects, ranging from Python backend systems to crafting dynamic interfaces with Angular. My GitHub showcases a variety of projects, including mobile applications and web platforms, highlighting my proficiency in technologies such as Angular, Ionic, and Slim PHP. Committed to technical excellence, I actively seek innovative challenges to apply my skills and contribute to the success of exciting projects.
 
 ## Academic Background
 
