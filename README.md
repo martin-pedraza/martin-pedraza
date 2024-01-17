@@ -17,9 +17,6 @@ A captivating web development project that serves as a Personal Pokedex, allowin
 ### 🌐 Gaming Room (Angular, Firebase)
 A web-based gaming platform featuring games like Hangman, Trivia, and more, hosted on Firebase. [Visit Gaming Room](https://gameroom-97620.web.app/home)
 
-### 🍔 Restaurant Comanda API (Slim PHP, MySQL)
-A PHP API for restaurant order management, facilitating communication between waitstaff and the kitchen. [Explore Restaurant API](https://github.com/martin-pedraza/TechDiverse/tree/main/slim-php-mysql-deployment)
-
 ### 🏥 Clinic Management System (Angular, Firebase)
 A comprehensive website for managing medical services, allowing professionals to offer services, patients to request appointments, and administrators to access statistics and reports. [Explore Clinic Management System](https://clinica-b48cb.web.app/)
 
