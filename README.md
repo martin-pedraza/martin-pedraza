@@ -1,39 +1,55 @@
-# Martin Pedraza | Python & Angular Developer
+<h1 align="center">Hi , I'm Martin Pedraza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-👋 Hello! Welcome to my GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Expert+in+web+development;Passionate+about+programming+❤️;Committed+to+continuous+learning">
+</p>
+</p>
+<p align='center'>
+<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
-I'm Marin Pedraza, a passionate programmer from Argentina with specialized expertise in Python and Angular development. My robust background in computer science is reflected in a successful academic journey where I've led diverse projects, ranging from Python backend systems to crafting dynamic interfaces with Angular. My GitHub showcases a variety of projects, including mobile applications and web platforms, highlighting my proficiency in technologies such as Angular, Ionic, and Slim PHP. Committed to technical excellence, I actively seek innovative challenges to apply my skills and contribute to the success of exciting projects.
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-## Academic Background
+```python
+class MartinPedraza():
+    
+  def __init__(self):
+    self.name = "Martin Pedraza"
+    self.username = "martin-pedraza"
+    self.location = "Buenos Aires, Argentina"
+    self.web = "https://martin-pedraza.github.io/Resume"
+  
+  def __str__(self):
+    return self.name
 
-- 🎓 Completed a technical degree in programming.
-- 📚 Currently specializing in Python development.
+if __name__ == '__main__':
+    me = MartinPedraza()
+```
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### 🚀 Personal Pokedex (HTML, CSS, JSON)
-A captivating web development project that serves as a Personal Pokedex, allowing users to explore information about various Pokémon based on their types. Check out the project [here](https://tame-pink-sheep-gear.cyclic.app/).
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=martin-pedraza&repo=ClinicaOnline)](https://github.com/martin-pedraza/ClinicaOnline)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=martin-pedraza&repo=GameRoom)](https://github.com/martin-pedraza/GameRoom)
 
-### 🌐 Gaming Room (Angular, Firebase)
-A web-based gaming platform featuring games like Hangman, Trivia, and more, hosted on Firebase. [Visit Gaming Room](https://gameroom-97620.web.app/home)
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
 
-### 🏥 Clinic Management System (Angular, Firebase)
-A comprehensive website for managing medical services, allowing professionals to offer services, patients to request appointments, and administrators to access statistics and reports. [Explore Clinic Management System](https://clinica-b48cb.web.app/)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martin-pedraza&layout=compact&theme=dark" alt="top-langs" />
+</p>
 
-## Skills
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> Let's Connect!
 
-- **Languages:** Python, C#, PHP.
-- **Frameworks:** SLIM PHP, Ionic, Angular.
-- **Databases:** MySQL, Firebase.
+<p align="center">
+	<a href="mailto:pedraza.martindiego@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/martin-pedraza"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/pedraza-martindiego"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+</p>
 
-## LinkedIn
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 
-Connect with me on LinkedIn to stay updated on my professional journey: [LinkedIn Profile](https://www.linkedin.com/in/pedraza-martindiego/)
 
-## Let's Connect!
-
-I am enthusiastic about contributing to innovative projects and collaborating with like-minded professionals. If you have any opportunities or would like to discuss technology, feel free to reach out.
-
-📧 Email: pedraza.martindiego@gmail.com
-<!--🌐 Portfolio: [Your Portfolio Website](your_portfolio_website)-->
-
+<!--<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/martin-pedraza/count.svg" />
+</p>-->
