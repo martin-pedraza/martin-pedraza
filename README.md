@@ -9,20 +9,23 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-```python
-class MartinPedraza():
-    
-  def __init__(self):
-    self.name = "Martin Pedraza"
-    self.username = "martin-pedraza"
-    self.location = "Buenos Aires, Argentina"
-    self.web = "https://martin-pedraza.github.io/Resume"
+```js
+class MartinPedraza {
+  constructor() {
+    this.name = "Martin Pedraza";
+    this.username = "martin-pedraza";
+    this.location = "Buenos Aires, Argentina";
+    this.web = "https://martin-pedraza.github.io/Resume";
+  }
   
-  def __str__(self):
-    return self.name
+  toString() {
+    return this.name;
+  }
+}
 
-if __name__ == '__main__':
-    me = MartinPedraza()
+const me = new MartinPedraza();
+console.log(me.toString());
+
 ```
 
 ## 🚀 Featured Projects
