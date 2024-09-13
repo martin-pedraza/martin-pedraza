@@ -28,10 +28,12 @@ console.log(me.toString());
 
 ```
 
+<!--
 ## 🚀 Featured Projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=martin-pedraza&repo=ClinicaOnline)](https://github.com/martin-pedraza/ClinicaOnline)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=martin-pedraza&repo=GameRoom)](https://github.com/martin-pedraza/GameRoom)
+-->
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
 
@@ -47,10 +49,11 @@ console.log(me.toString());
 	<a href="https://www.linkedin.com/in/pedraza-martindiego"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
 
+<!--
 <p align="center">
   <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
-
+-->
 
 <!--<p align="center"> 
   Visitor count<br>
