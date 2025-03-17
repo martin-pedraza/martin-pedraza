@@ -10,7 +10,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 ```js
-class MartinPedraza {
+class Developer {
   constructor() {
     this.name = "Martin Pedraza";
     this.username = "martin-pedraza";
@@ -23,7 +23,7 @@ class MartinPedraza {
   }
 }
 
-const me = new MartinPedraza();
+const me = new Developer();
 console.log(me.toString());
 
 ```
