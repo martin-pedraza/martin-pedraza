@@ -15,7 +15,6 @@ class Developer {
     this.name = "Martin Pedraza";
     this.username = "martin-pedraza";
     this.location = "Buenos Aires, Argentina";
-    this.web = "https://martin-pedraza.github.io/Resume";
   }
   
   toString() {
