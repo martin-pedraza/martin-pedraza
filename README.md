@@ -23,16 +23,17 @@ class Developer {
   }
 
   toString() {
-    return `Name: ${this.name}\nTitle: ${this.title}\nLocation: ${this.location}\nUsername: ${this.username}\nEmail: ${this.email}`;
+    return
+		`Name: ${this.name}\n
+		Title: ${this.title}\n
+		Location: ${this.location}\n
+		Email: ${this.email}\n
+		Skills: $(this.skills.join(" ")}`;
   }
 }
 
 const me = new Developer();
 console.log(me.toString());
-
-console.log("\nMy Skills:");
-me.skills.forEach(skill => console.log(`- ${skill}`));
-
 ```
 
 <!--
