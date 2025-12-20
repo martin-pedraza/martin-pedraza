@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Martin Pedraza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Expert+in+web+development;Passionate+about+programming+❤️;Committed+to+continuous+learning">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Backend+developer;Passionate+about+programming+❤️;Committed+to+continuous+learning">
 </p>
 </p>
 <p align='center'>
@@ -12,18 +12,26 @@
 ```js
 class Developer {
   constructor() {
-    this.name = "Martin Pedraza";
+    this.name = "Martin Diego Pedraza";
     this.username = "martin-pedraza";
     this.location = "Buenos Aires, Argentina";
+    this.title = "Backend Developer";
+    this.email = "martindiego.pedraza@gmail.com";
+    this.linkedinUrl = "https://www.linkedin.com/in/pedraza-martindiego/";
+    this.githubUrl = "https://github.com/martin-pedraza";
+    this.skills = ["JavaScript", "Node.js", "Express.js", "NestJS"];
   }
-  
+
   toString() {
-    return this.name;
+    return `Name: ${this.name}\nTitle: ${this.title}\nLocation: ${this.location}\nUsername: ${this.username}\nEmail: ${this.email}`;
   }
 }
 
 const me = new Developer();
 console.log(me.toString());
+
+console.log("\nMy Skills:");
+me.skills.forEach(skill => console.log(`- ${skill}`));
 
 ```
 
