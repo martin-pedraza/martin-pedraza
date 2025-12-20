@@ -37,7 +37,7 @@ console.log(me.toString());
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martin-pedraza&layout=compact&theme=dark" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martin-pedraza&layout=donut&theme=dark" alt="top-langs" />
 </p>
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> Let's Connect!
