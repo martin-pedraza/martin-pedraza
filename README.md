@@ -19,7 +19,7 @@ class Developer {
     this.email = "martindiego.pedraza@gmail.com";
     this.linkedinUrl = "https://www.linkedin.com/in/pedraza-martindiego/";
     this.githubUrl = "https://github.com/martin-pedraza";
-    this.skills = ["JavaScript", "Node.js", "Express.js", "NestJS"];
+    this.skills = ["JavaScript", "TypeScript", "Node.js", "Express.js", "NestJS"];
   }
 
   toString() {
