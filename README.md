@@ -16,7 +16,7 @@ class Developer {
     this.username = "martin-pedraza";
     this.location = "Buenos Aires, Argentina";
     this.title = "Backend Developer";
-    this.email = "martindiego.pedraza@gmail.com";
+    this.email = "pedraza.martindiego@gmail.com";
     this.linkedinUrl = "https://www.linkedin.com/in/pedraza-martindiego/";
     this.githubUrl = "https://github.com/martin-pedraza";
     this.skills = ["JavaScript", "TypeScript", "Node.js", "Express.js", "NestJS"];
