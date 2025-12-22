@@ -24,10 +24,10 @@ class Developer {
 
   toString() {
     return
-		`Name: ${this.name}\n
-		Title: ${this.title}\n
-		Location: ${this.location}\n
-		Email: ${this.email}\n
+		`Name: ${this.name}
+		Title: ${this.title}
+		Location: ${this.location}
+		Email: ${this.email}
 		Skills: $(this.skills.join(" ")}`;
   }
 }
