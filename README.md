@@ -50,7 +50,7 @@ console.log(me.toString());
 </p>
 -->
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> Let's Connect!
+<!--## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> Let's Connect!-->
 
 <p align="center">
 	<a href="mailto:pedraza.martindiego@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
