@@ -1,13 +1,13 @@
 <h1 align="center">Hi , I'm Martin Pedraza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Backend+developer;Passionate+about+programming+❤️;Committed+to+continuous+learning">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Backend+developer;NodeJS+ExpressJS+NestJS;Committed+to+continuous+learning">
 </p>
 </p>
-<p align='center'>
-<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<!--<p align='center'>
+<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>-->
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<!--## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 ```js
 class Developer {
@@ -35,19 +35,20 @@ class Developer {
 const me = new Developer();
 console.log(me.toString());
 ```
-
+-->
 <!--
 ## 🚀 Featured Projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=martin-pedraza&repo=ClinicaOnline)](https://github.com/martin-pedraza/ClinicaOnline)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=martin-pedraza&repo=GameRoom)](https://github.com/martin-pedraza/GameRoom)
 -->
-
+<!--
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martin-pedraza&layout=donut&theme=dark" alt="top-langs" />
 </p>
+-->
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> Let's Connect!
 
