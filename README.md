@@ -6,5 +6,6 @@
 <p align="center">
   <a href="mailto:pedraza.martindiego@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/pedraza-martindiego"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://martin-pedraza.github.io/the-game/"><img src="https://img.icons8.com/bubbles/50/000000/controller.png" alt="The game"/></a>
   <a href="./martin-pedraza.pdf" download><img src="https://img.icons8.com/bubbles/50/000000/resume.png" alt="CV"/></a>
 </p>
